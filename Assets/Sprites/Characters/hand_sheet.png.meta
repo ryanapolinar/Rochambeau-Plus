@@ -1,0 +1,381 @@
+fileFormatVersion: 2
+guid: e9fe691ced62d614f9b452a67080ec7e
+timeCreated: 1451860901
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hand_sheet_0
+    21300002: hand_sheet_1
+    21300004: hand_sheet_2
+    21300006: hand_sheet_3
+    21300008: hand_sheet_4
+    21300010: hand_sheet_5
+    21300012: hand_sheet_6
+    21300014: hand_sheet_7
+    21300016: hand_sheet_8
+    21300018: hand_sheet_9
+    21300020: hand_sheet_10
+    21300022: hand_sheet_11
+    21300024: hand_sheet_12
+    21300026: hand_sheet_13
+    21300028: hand_sheet_14
+    21300030: hand_sheet_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hand_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 31}
+        - {x: -32, y: 16}
+        - {x: -32, y: -25}
+        - {x: -8, y: -31}
+        - {x: 20, y: -31}
+        - {x: 36, y: -7}
+        - {x: 36, y: 29}
+        - {x: 34, y: 31}
+    - name: hand_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 30}
+        - {x: -32, y: 23}
+        - {x: -32, y: -18}
+        - {x: -30, y: -20}
+        - {x: -11, y: -32}
+        - {x: 18, y: -32}
+        - {x: 33, y: -18}
+        - {x: 33, y: 30}
+    - name: hand_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 29}
+        - {x: -5, y: 29}
+        - {x: -32, y: 16}
+        - {x: -32, y: -21}
+        - {x: -18, y: -32}
+        - {x: 19, y: -32}
+        - {x: 27, y: -17}
+        - {x: 29, y: -9}
+        - {x: 29, y: 21}
+    - name: hand_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 30}
+        - {x: -32, y: 27}
+        - {x: -32, y: -28}
+        - {x: -19, y: -32}
+        - {x: 17, y: -32}
+        - {x: 33, y: -16}
+        - {x: 33, y: 30}
+    - name: hand_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 31}
+        - {x: -32, y: 16}
+        - {x: -32, y: -25}
+        - {x: -8, y: -31}
+        - {x: 20, y: -31}
+        - {x: 36, y: -7}
+        - {x: 36, y: 29}
+        - {x: 34, y: 31}
+    - name: hand_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 31}
+        - {x: -32, y: 15}
+        - {x: -32, y: -27}
+        - {x: -17, y: -31}
+        - {x: 24, y: -31}
+        - {x: 29, y: -7}
+        - {x: 29, y: 23}
+        - {x: 18, y: 31}
+    - name: hand_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 31}
+        - {x: -32, y: 21}
+        - {x: -32, y: -21}
+        - {x: -11, y: -31}
+        - {x: 16, y: -31}
+        - {x: 27, y: -18}
+        - {x: 27, y: 24}
+        - {x: 16, y: 31}
+    - name: hand_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 31}
+        - {x: -32, y: 21}
+        - {x: -32, y: -21}
+        - {x: -11, y: -31}
+        - {x: 16, y: -31}
+        - {x: 27, y: -18}
+        - {x: 27, y: 24}
+        - {x: 16, y: 31}
+    - name: hand_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 31}
+        - {x: -32, y: 16}
+        - {x: -32, y: -25}
+        - {x: -8, y: -31}
+        - {x: 20, y: -31}
+        - {x: 36, y: -7}
+        - {x: 36, y: 29}
+        - {x: 34, y: 31}
+    - name: hand_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 31}
+        - {x: -32, y: 12}
+        - {x: -32, y: -24}
+        - {x: -8, y: -31}
+        - {x: 29, y: -31}
+        - {x: 43, y: -13}
+        - {x: 43, y: 26}
+        - {x: 42, y: 31}
+    - name: hand_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 32}
+        - {x: -29, y: 15}
+        - {x: -32, y: 13}
+        - {x: -32, y: -27}
+        - {x: -14, y: -31}
+        - {x: 54, y: -31}
+        - {x: 59, y: -23}
+        - {x: 59, y: 19}
+        - {x: 56, y: 32}
+    - name: hand_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 32}
+        - {x: -29, y: 15}
+        - {x: -32, y: 13}
+        - {x: -32, y: -27}
+        - {x: -14, y: -31}
+        - {x: 54, y: -31}
+        - {x: 59, y: -23}
+        - {x: 59, y: 19}
+        - {x: 56, y: 32}
+    - name: hand_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 31}
+        - {x: -32, y: 16}
+        - {x: -32, y: -25}
+        - {x: -8, y: -31}
+        - {x: 20, y: -31}
+        - {x: 36, y: -7}
+        - {x: 36, y: 29}
+        - {x: 34, y: 31}
+    - name: hand_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 31}
+        - {x: -32, y: 18}
+        - {x: -32, y: -17}
+        - {x: -28, y: -31}
+        - {x: 19, y: -31}
+        - {x: 43, y: -7}
+        - {x: 43, y: 21}
+        - {x: 40, y: 31}
+    - name: hand_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 31}
+        - {x: -8, y: 31}
+        - {x: -32, y: 12}
+        - {x: -32, y: -25}
+        - {x: -20, y: -31}
+        - {x: 41, y: -31}
+        - {x: 58, y: -14}
+        - {x: 58, y: 24}
+        - {x: 54, y: 29}
+    - name: hand_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 31}
+        - {x: -8, y: 31}
+        - {x: -32, y: 12}
+        - {x: -32, y: -25}
+        - {x: -20, y: -31}
+        - {x: 41, y: -31}
+        - {x: 58, y: -14}
+        - {x: 58, y: 24}
+        - {x: 54, y: 29}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
